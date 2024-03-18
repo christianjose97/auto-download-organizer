@@ -1,4 +1,4 @@
-# 💣Auto Donwlind Script
+# 🤖 Auto Download Script
 
 COMING SOON
 
