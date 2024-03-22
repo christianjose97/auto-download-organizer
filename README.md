@@ -8,13 +8,14 @@ COMING SOON
 
 ## 🕹️ Features
 
-Here's what you can do with Minesweeper :
+Here's what you can do with Auto downloader organizer:
  
-- `COMING SOON`
+- `With the click of a an executable your download section in windows`
 
 ## 🖥️ The Process
 
-Details to be added soon.
+I began with the idea of how I could easily have my files organized in half the time. I went ahead and decided to
+use python as it is the easiest to script and the most compatible with interacting with OS's. 
 
 ## 📚 What I Learned
 
