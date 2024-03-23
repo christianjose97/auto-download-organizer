@@ -24,7 +24,7 @@ COMING SOON.
 
 ## 🧠 How can it be improved?
 
-Details to be added soon.
+Support other OS such as mac os, linux, etc..
 
 ## 👟 Running the Project
 
@@ -33,6 +33,9 @@ To run the project in your local environment, follow these steps:
 Details to be aded soon.
 
 1. Clone the repository to your local machine.
+2. in your terminal `cd` into the location of your project and run the following command... 
+   this command will create the executable that will allow you to auto organize your donload folder 
+   (currently windows only)
 
 ## 📺 Video
 
