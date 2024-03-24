@@ -10,7 +10,7 @@ COMING SOON
 
 Here's what you can do with Auto downloader organizer:
  
-- `With the click of a an executable your download section in windows`
+- `With the click of a an executable your download section in windows will be organized by extension`
 
 ## 🖥️ The Process
 
