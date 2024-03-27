@@ -25,6 +25,7 @@ COMING SOON.
 ## 🧠 How can it be improved?
 
 Support other OS such as mac os, linux, etc..
+Make it more customizable with how you setup folders.
 
 ## 👟 Running the Project
 
