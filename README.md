@@ -1,6 +1,6 @@
 # 🤖 Auto Download Script
 
-COMING SOON
+This code is a Python script that organizes files in a specified directory (in this case, the Downloads folder) based on their file extensions
 
 ## 📦 Tech Stack
 
