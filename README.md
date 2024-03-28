@@ -19,13 +19,17 @@ use python as it is the easiest to script and the most compatible with interacti
 
 ## 📚 What I Learned
 
-COMING SOON.
+- I learned a tremendous amount about the `os` module. I had no idea that there existed such a thing that communicate python with any OS.
+
+-gave me the chance to referesh on Python syntax.
+
 
 
 ## 🧠 How can it be improved?
 
 - Support other OS such as mac os, linux, etc..
 - Make it more customizable with how you setup folders.
+- Make it in a way that if 
 
 ## 👟 Running the Project
 
